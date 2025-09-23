@@ -1,4 +1,4 @@
-# 👩‍💻 Daniela Rocha Muñoz
+# Daniela Rocha Muñoz
 
 **Graduate Software Engineer — campmxtrainee**
 
@@ -7,7 +7,7 @@ Experiencia en desarrollo full-stack, despliegues en la nube (OCI) y prácticas 
 
 ---
 
-## 🔧 Tech stack
+## Tech stack
 - **Lenguajes:** Java · C++ · Python · JavaScript · SQL  
 - **Frameworks / Mobile:** React · React Native · Spring Boot · Node.js  
 - **Cloud / DevOps:** Oracle Cloud Infrastructure (OCI) · Docker · GitHub Actions (CI/CD) · Firebase  
@@ -15,7 +15,7 @@ Experiencia en desarrollo full-stack, despliegues en la nube (OCI) y prácticas 
 
 ---
 
-## 🌟 Proyectos destacados (resumen)
+## Proyectos
 - **Oracle + ITESM — Gestión de Tareas vía Bot** — Backend en Spring Boot + despliegues en OCI. Mejoró eficiencia del equipo en +120% y redujo costos en 16%.  
   🔗 [Repo (pendiente)](#)
 
@@ -30,7 +30,6 @@ Experiencia en desarrollo full-stack, despliegues en la nube (OCI) y prácticas 
 
 ---
 
-## 📫 Contacto
+## Contacto
 - Email: A00573664@tec.mx  
-- LinkedIn: (pendiente)  
 - GitHub: (pendiente)
