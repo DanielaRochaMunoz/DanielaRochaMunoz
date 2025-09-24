@@ -1,6 +1,6 @@
 # Daniela Rocha Muñoz  
 
-**Graduate Software Engineer — campmxtrainee**  
+**Graduate Software Engineer**  
 B.S. in Computer Science and Technology (ITESM, Monterrey Campus) | Cybersecurity concentration (in progress)  
 
 Certified in Oracle Cloud Infrastructure, with focus on **Cloud, DevOps, and Application Security**.  
