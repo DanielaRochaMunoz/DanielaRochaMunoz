@@ -24,7 +24,7 @@ Certified in Oracle Cloud Infrastructure, with focus on **Cloud, DevOps, and App
 Project in collaboration with **Oracle**.  
 - Backend in Spring Boot with secure REST APIs and RBAC.  
 - Deployed on Oracle Cloud Infrastructure with Docker, Kubernetes, and CI/CD pipelines.  
-- Improved team efficiency by **+120%** and reduced costs by **16%**.  
+- Reduced costs by **16%**.  
 
 ---
 
